@@ -1,0 +1,24 @@
+#Tüm Kitapları Listele
+
+GET http://localhost:8080/api/books
+
+###
+#ID'si belli olan bir kitabın verilerini getir
+GET http://localhost:8080/api/books/1
+
+###
+
+#Bir Kitap Ekle
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "id": 1,
+  "title":"Karanlık Oda Kuralları2",
+  "author": "Robin Roe2"
+}
+
+###
+
+#Kitabı Sil
+DELETE http://localhost:8080/api/books/1
