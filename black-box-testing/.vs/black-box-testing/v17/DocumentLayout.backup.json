@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\yaz\u0131l\u0131m test ve do\u011Frulama\\tests\\black-box-testing\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|solutionrelative:services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\yaz\u0131l\u0131m test ve do\u011Frulama\\tests\\black-box-testing\\tests\\shoppingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|solutionrelative:tests\\shoppingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\yaz\u0131l\u0131m test ve do\u011Frulama\\tests\\black-box-testing\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\yaz\u0131l\u0131m test ve do\u011Frulama\\tests\\black-box-testing\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB06666-2E96-4A27-88C1-0CB7E39ADBAB}|black-box-testing.csproj|solutionrelative:services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -38,39 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T16:07:42.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ShoppingServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\Tests\\ShoppingServiceTests.cs",
               "RelativeDocumentMoniker": "Tests\\ShoppingServiceTests.cs",
               "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\Tests\\ShoppingServiceTests.cs",
               "RelativeToolTip": "Tests\\ShoppingServiceTests.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3oAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:14:15.154Z",
+              "WhenOpened": "2025-12-15T18:19:30.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShoppingService.cs",
               "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\Services\\ShoppingService.cs",
               "RelativeDocumentMoniker": "Services\\ShoppingService.cs",
               "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Yaz\u0131l\u0131m Test Ve Do\u011Frulama\\tests\\black-box-testing\\Services\\ShoppingService.cs",
               "RelativeToolTip": "Services\\ShoppingService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAADgv0UAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T14:44:40.091Z",
               "EditorCaption": ""

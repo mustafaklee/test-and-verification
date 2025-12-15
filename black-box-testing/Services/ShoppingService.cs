@@ -10,7 +10,7 @@ namespace black_box_testing.Services
 {
     public class ShoppingService
     {
-        private readonly AppDbContext _context;
+        public readonly AppDbContext _context;
         public ShoppingService(AppDbContext context)
         {
             _context = context;
@@ -25,7 +25,7 @@ namespace black_box_testing.Services
         }
 
 
-        public void AddOrder(int UserId, int total)
+        public void AddOrder(int UserId, decimal total)
         {
             User u1 = _context.Users.Find(UserId);
             if(u1 == null)

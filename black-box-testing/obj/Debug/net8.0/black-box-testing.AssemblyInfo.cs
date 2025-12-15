@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("black-box-testing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2101dcd72104506838b8defb860c5c54a4dcfe88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d93926f55f374b1709bcedc03dbb09fdfa7e365b")]
 [assembly: System.Reflection.AssemblyProductAttribute("black-box-testing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("black-box-testing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
